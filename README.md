@@ -1,2 +1,3 @@
 # hello-world
-simple test project repository
+
+This repository contains simple "Hello World" project.
